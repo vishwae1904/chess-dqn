@@ -17,7 +17,7 @@ This project implements a Deep Q-Network (DQN) to optimize chess piece movements
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/chess-dqn.git
+   git clone https://github.com/vishwae1904/chess-dqn.git
 2. Install dependencies:
    pip install -r requirements.txt
 3. Start training:
